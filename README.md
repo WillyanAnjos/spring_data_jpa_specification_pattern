@@ -1,0 +1,1 @@
+# spring_data_jpa_specification_pattern
